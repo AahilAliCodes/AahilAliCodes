@@ -32,11 +32,11 @@
 </details>
 <details>
 <summary>Full Stack Developer 🍥</summary>
-  <ul>
+  <pre>
     <div align="left">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArjunNair17&repo=SpotifyAppCS35L" alt="GitHub Stats">
     </div>
-  </ul>
+  </pre>
 </details>
 <h3>The Questions You May Have 😕</h3>
 <details>
