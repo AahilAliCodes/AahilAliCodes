@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi 👋 I am Aahil ALi
+<img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/linkedin_banner.png" />
+
 
 <!--
 **AahilAliCodes/AahilAliCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
