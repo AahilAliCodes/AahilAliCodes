@@ -1,5 +1,5 @@
 ### Hi 👋 I am Aahil ALi
-<img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/linkedin_banner.png" />
+<img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/linkedin_banner.png" width="30px" height="30px">
 
 
 <!--
