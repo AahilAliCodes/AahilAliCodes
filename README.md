@@ -4,7 +4,11 @@
   <h1>Hi 👋, I am <a href="https://ashutoshhathidara.com/">Aahil Ali</a></h1>
 </body>
 </html>
-
+<img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/linkedin_banner.png" />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/logeshwaran-elumalai-a180b3249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="logeshwaran-elumalai-a180b3249" height="30" width="40" /></a>
+</p>
 <!--
 **AahilAliCodes/AahilAliCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
