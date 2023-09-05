@@ -10,7 +10,6 @@
 <a href="https://www.linkedin.com/in/aahil-ali1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
 <a href="https://www.instagram.com/aahiilll" target="blank"><img align="center" src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/instagram.png" alt="logeshwaran-elumalai-a180b3249" height="30" width="40" /></a>
 </p>
-<img align='right' src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Beetlejuice_onstage.jpg/640px-Beetlejuice_onstage.jpg" width="330"/>
 
 <h3>What I do? 👨‍💻</h3>
 <details>
