@@ -1,7 +1,6 @@
 ### Hi 👋 I am Aahil ALi
 <img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/linkedin_banner.png" />
-h1>Hi! 👋, I am Aahil Ali</h1>
-<img align='right' src="https://github.com/ashutosh1919/ashutosh1919/blob/master/my_image.jpeg" width="230" />
+<h1>Hi 👋, I am <a href="https://ashutoshhathidara.com/">Aahil Ali</a> width="30px" height="30px"></h1>
 
 <!--
 **AahilAliCodes/AahilAliCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
