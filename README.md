@@ -1,6 +1,18 @@
-### Hi 👋 I am Aahil ALi
-<img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/linkedin_banner.png" />
-<h1>Hi 👋, I am <a href="https://ashutoshhathidara.com/">Aahil Ali</a> <img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/linkedin_banner.png" width="30px" height="30px"></h1>
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+  .header {
+    background-image: url("https://github.com/ashutosh1919/ashutosh1919/blob/master/linkedin_banner.png");
+    background-size: 30px 30px; /* Set the width and height of the background image */
+    display: inline-block; /* To make sure the background image is inline with the text */
+  }
+</style>
+</head>
+<body>
+  <h1>Hi 👋, I am <a href="https://ashutoshhathidara.com/">Aahil Ali</a></h1>
+</body>
+</html>
 
 <!--
 **AahilAliCodes/AahilAliCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
