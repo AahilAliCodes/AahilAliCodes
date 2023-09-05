@@ -6,7 +6,7 @@
 </html>
 <img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/linkedin_banner.png" />
 <h1 align="middle">Connect with me:</h1>
-<p align="middle">
+<!-- <p align="middle"> -->
 <a href="https://linkedin.com/in/logeshwaran-elumalai-a180b3249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="logeshwaran-elumalai-a180b3249" height="30" width="40" /></a>
 <a href="https://www.instagram.com/layman_brother" target="blank"><img align="center" src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/instagram.png" alt="logeshwaran-elumalai-a180b3249" height="30" width="40" /></a>
 </p>
