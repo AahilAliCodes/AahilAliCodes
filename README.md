@@ -34,8 +34,8 @@
 <summary>Full Stack Developer 🍥</summary>
   <ul>
     <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArjunNair17&repo=SpotifyAppCS35L" alt="GitHub Stats">
-  </div>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArjunNair17&repo=SpotifyAppCS35L" alt="GitHub Stats">
+    </div>
   </ul>
 </details>
 <h3>The Questions You May Have 😕</h3>
@@ -54,7 +54,7 @@
 </details>
 <details>
 <summary>What do you do other than progamming? 💁‍♂️</summary>
-  <ul>
+   <ul>
     <li>I like to do miscellaneous research in the feilds of Mathematics, Economics, Physics, and Computer science. Check out my latest  <a href="https://drive.google.com/file/d/1kLAggeo_ii7N6PtGqv544wN6vg793ZQ4/view"> Research Paper!</a>.</li>
     <li>I a member of DevX at UCLA, which is is UCLA's premier product development organization. We build real-world projects that help tackle pressing problems within the UCLA community, and beyond. We help students make their ideas come to life, and grow their technical skills by pairing them with experienced teammates, building a network that lasts beyond UCLA. We work for educating students to deal with very basic but important problems which eventually build their character<a href="https://www.ucladevx.com/"> DevX!</a>.</li>
     <li>I like to trade stocks, crypto and futres and I learn quantative algrithms to automate this process</li>
