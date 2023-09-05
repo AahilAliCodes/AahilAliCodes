@@ -5,13 +5,60 @@
 </body>
 </html>
 <img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/linkedin_banner.png" />
-<h1 align="middle">Connect with me:
+<h1 align="middle">Connect with me:</h1>
 <p align="middle">
 <a href="https://linkedin.com/in/logeshwaran-elumalai-a180b3249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="logeshwaran-elumalai-a180b3249" height="30" width="40" /></a>
 <a href="https://www.instagram.com/layman_brother" target="blank"><img align="center" src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/instagram.png" alt="logeshwaran-elumalai-a180b3249" height="30" width="40" /></a>
 </p>
-</h1>
-<img align='right' src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Beetlejuice_onstage.jpg/640px-Beetlejuice_onstage.jpg" width="230"/>
+<img align='right' src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Beetlejuice_onstage.jpg/640px-Beetlejuice_onstage.jpg" width="330"/>
+
+<h3>What I do? 👨‍💻</h3>
+<details>
+<summary>Fun Projects 📊</summary>
+<ul>
+  <li><a href="https://github.com/AahilAliCodes/OpenMp-Parallel-Computing">Parallel Computing</a></li>
+  <li><a href="https://github.com/AahilAliCodes/Python-Scripting">GNU Python Script</a></li>
+  <li><a href="https://github.com/AahilAliCodes/Movie-Recommendation-Algorithm">MovieRecommendationAlgo</a></li>
+  <li><a href="https://github.com/AahilAliCodes/BlackHoleSim">BlackHoleSimulation</a></li>
+</ul>
+</details>
+<details>
+<summary>Full Stack Developer 🍥</summary>
+  <ul>
+    <li><a href="https://github.com/ArjunNair17/SpotifyAppCS35L">SpotifyBuds App</a></li>
+  </ul>
+</details>
+
+<h3>The Questions You May Have 😕</h3>
+<details>
+  <summary>Who are you? 👨</summary>
+  <pre>
+  A passionate individual who always thrive to work on end to end products which develop sustainable and scalable social and
+  technical systems to create impact.<br>
+  My name describes my qualities,
+  A: Attention to Detail
+  A: Adaptable
+  H: Hard working
+  I: inquisitive
+  L: Learner
+  </pre>
+</details>
+<details>
+<summary>What do you do other than progamming? 💁‍♂️</summary>
+  <ul>
+    <li>I like to do misciellanous research in the feilds of Mathematics, Economics, Physics, and Computer science  <a href="https://drive.google.com/file/d/1kLAggeo_ii7N6PtGqv544wN6vg793ZQ4/view">Check out my latest research paper!</a>.</li>
+    <li>I a member of DevX at UCLA, which is is UCLA's premier product development organization. W build real-world projects that help tackle pressing problems within the UCLA community, and beyond. We help students make their ideas come to life, and grow their technical skills by pairing them with experienced teammates, building a network that lasts beyond UCLA. We work for educating students to deal with very basic but important problems which eventually build their character<a href="https://www.ucladevx.com/"> DevX!</a>.</li>
+    <li>I like to trade stocks, crypto and futres and I learn quantative algrithms to automate this process</li>
+    <li>I like fitness and music and I am working on Full-Stack applicaitons to improve this space</li>
+  </ul>
+</details>
+<h1 align="left">Languages and Tools:👨🏼‍💻</h1>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=AahilAliCodes&show_icons=true&theme=Gradient" alt="GitHub Stats">
+</div>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AahilAliCodes&layout=pie" alt="Top Langs">
+</div>
 
 
 
