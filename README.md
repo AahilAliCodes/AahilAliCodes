@@ -165,3 +165,4 @@
 ## 📕Latest Blog Posts
 
 Coming soon ...
+- 📝 I’m currently writing blogs for topics I am passionate about on [HackerNoon](https://hackernoon.com/u/princeali)
